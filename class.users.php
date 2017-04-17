@@ -1,5 +1,5 @@
 <?php 
-class users implements usersInterface {
+class users  {
 	
 	private static $instance = null;
 	private $tableName = 'users';
