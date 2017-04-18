@@ -11,3 +11,6 @@ Header : Content-Type : application/x-www-form-urlencoded
 Hit a Url with Json data And POST Method
 Header : Content-Type:application/json
 More Header Option : Add Auth Token,Content-Length
+
+File: class.database.php
+#use class.database.php, if you want to use database connectivity and execute query
